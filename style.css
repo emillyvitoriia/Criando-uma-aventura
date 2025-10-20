@@ -1,0 +1,8 @@
+body {
+    background-color:rgb(131, 219, 235) ;
+    color:beige;
+    font-family: "Playwrite DE Grund Guides", cursive;
+    display: flex;
+    justify-content: center;
+
+}
