@@ -6,17 +6,37 @@ body {
     justify-content: center;
     align-items: center;
     height: 700px;
-
-
+    margin:0;
 }
 
 button {
+
 background-color: rgb(73, 118, 129);
 color: rgb(252, 252,252);
 font-family: "Playwrite DE Grund Guides", cursive;
 
 
+}
 
+.passo {
+  display:none;
+}
+
+.passo.ativo {
+   display:block;
+
+}
+
+main {
+  text-align: center ;
+  max-width: 90%;
+
+
+}
+
+
+img {
+  max-width: 60%;
 
 
 }
